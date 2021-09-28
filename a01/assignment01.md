@@ -1,11 +1,11 @@
-# (Title of project)
-## (your name, course info)
+# Heuristic Evauluation of New York
+## Lana Garrett, DH110:UX-UI Design
 
 ### assignment01: heuristic evauluation of New York
 
 ---
 
-purpose of assignment-- 3-5 sentences of what you want to show via this assignment
+purpose of assignment; 3-5 sentences explaining the purpose of the project
 
 
 http://myucla.edu/
