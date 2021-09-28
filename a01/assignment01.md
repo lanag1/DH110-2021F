@@ -1,7 +1,7 @@
 # (Title of project)
 ## (your name, course info)
 
-### assignment01: heuristic evauluation 
+### assignment01: heuristic evauluation of New York
 
 ---
 
